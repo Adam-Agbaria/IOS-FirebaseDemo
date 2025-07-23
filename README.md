@@ -2,6 +2,12 @@
 
 An application that allows friends to quickly calculate how much each person needs to pay for a meal, including VAT, tip, and split by the number of participants – with the ability to save the splits in Firebase and view historical data.
 
+
+
+https://github.com/user-attachments/assets/354f2d55-1773-44b2-b032-a69094dfaa49
+
+
+
 ## 🎯 Features
 
 - **Smart Calculation**: Quick calculation of bill splitting including tip
